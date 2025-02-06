@@ -1,4 +1,4 @@
-FROM hrishi2861/z-mirror-modified
+FROM dawn001/z_mirror:main
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
